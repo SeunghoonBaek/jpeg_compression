@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [이미지 처리의 기초](README.md)
 
